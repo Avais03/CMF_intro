@@ -39,8 +39,7 @@
 
 ### Схема препроцессинга данных:
 
-![Screenshot 2024-09-30 at 17.01.23](./Screenshot%2024-09-30%at%17.01.23.png)
-
+![screenshoot](https://github.com/Avais03/CMF_intro/blob/boss/Mid-time%20prediction/Screenshot%202024-09-30%20at%2017.01.23.png)
 
 
 ### Необходимые инструменты
